@@ -1,0 +1,23 @@
+﻿body
+{
+    font-family: Arial;
+    font-size: 11px;
+}
+.label
+{
+    color:#0000FF;
+    font-weight:bold;
+}
+
+.iframe
+{
+    padding: 0px;
+    margin: 0px;
+    border: medium solid #00FFFF;
+}
+
+.form
+{
+    padding: 0px;
+    margin: 0px;
+}
